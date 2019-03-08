@@ -1,0 +1,23 @@
+{
+  "name": "projet-web",
+  "version": "1.0.0",
+  "description": "projet node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelJacquet/site-web-chocolat.git"
+  },
+  "author": "Axel Jacquet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axelJacquet/site-web-chocolat/issues"
+  },
+  "homepage": "https://github.com/axelJacquet/site-web-chocolat#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "swig": "^1.4.2"
+  }
+}
